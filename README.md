@@ -2,6 +2,10 @@
 
 A Model Context Protocol (MCP) server that enables creation and management of Framer plugins with web3 capabilities. This server provides tools for creating, building, and managing Framer plugins with integrated web3 features like wallet connections, contract interactions, and NFT displays.
 
+<a href="https://glama.ai/mcp/servers/pd3bkgs4z4">
+  <img width="380" height="200" src="https://glama.ai/mcp/servers/pd3bkgs4z4/badge" alt="Framer Plugin Server MCP server" />
+</a>
+
 ## Features
 
 - Create new Framer plugins with web3 capabilities
