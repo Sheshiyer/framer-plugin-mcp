@@ -1,5 +1,7 @@
 # Framer Plugin MCP Server
 
+[![smithery badge](https://smithery.ai/badge/@Sheshiyer/framer-plugin-mcp)](https://smithery.ai/server/@Sheshiyer/framer-plugin-mcp)
+
 A Model Context Protocol (MCP) server that enables creation and management of Framer plugins with web3 capabilities. This server provides tools for creating, building, and managing Framer plugins with integrated web3 features like wallet connections, contract interactions, and NFT displays.
 
 ## Features
@@ -19,6 +21,15 @@ A Model Context Protocol (MCP) server that enables creation and management of Fr
 
 ## Installation
 
+### Installing via Smithery
+
+To install Framer Plugin Server for Claude Desktop automatically via [Smithery](https://smithery.ai/server/@Sheshiyer/framer-plugin-mcp):
+
+```bash
+npx -y @smithery/cli install @Sheshiyer/framer-plugin-mcp --client claude
+```
+
+### Manual Installation
 1. Clone this repository:
 ```bash
 git clone https://github.com/sheshiyer/framer-plugin-mcp.git
