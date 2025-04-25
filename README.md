@@ -1,3 +1,5 @@
+[![MseeP Badge](https://mseep.net/pr/sheshiyer-framer-plugin-mcp-badge.jpg)](https://mseep.ai/app/sheshiyer-framer-plugin-mcp)
+
 # Framer Plugin MCP Server
 
 A Model Context Protocol (MCP) server that enables creation and management of Framer plugins with web3 capabilities. This server provides tools for creating, building, and managing Framer plugins with integrated web3 features like wallet connections, contract interactions, and NFT displays.
