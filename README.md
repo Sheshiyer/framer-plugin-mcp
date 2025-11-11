@@ -2,6 +2,9 @@
 
 A Model Context Protocol (MCP) server that enables creation and management of Framer plugins with web3 capabilities. This server provides tools for creating, building, and managing Framer plugins with integrated web3 features like wallet connections, contract interactions, and NFT displays.
 
+> [!NOTE]
+> If you have no development experience try the [Framer MCP plugin](https://www.framer.com/marketplace/plugins/mcp/) first which does not require cloning and running code
+
 ## Features
 
 - Create new Framer plugins with web3 capabilities
